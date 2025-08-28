@@ -1,5 +1,12 @@
 # next-docs-ui
 
+## 15.7.4
+
+### Patch Changes
+
+- 302cdc2: Use `position: fixed` for TOC
+  - fumadocs-core@15.7.4
+
 ## 15.7.3
 
 ### Patch Changes
